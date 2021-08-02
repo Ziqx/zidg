@@ -5,8 +5,8 @@ This repo is the collection hub of ZiDG resources
 [Download ZiDG logo](https://github.com/Ziqx/zidg/blob/main/zidg.png)
 
 ## Color Codes
-Yellow : `#F6C909`
-Black : `#000000`
+Yellow : `#FBCD09`
+Black : `#231F20`
 
 ## Inspirations
 <img src="https://github.com/Ziqx/zidg/blob/main/inspirations/insp1.jpg"  height="500">
